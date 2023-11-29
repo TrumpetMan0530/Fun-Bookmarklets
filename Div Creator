@@ -1,0 +1,1 @@
+javascript:var a,b;var div=document.createElement('div');a=prompt('color');b=prompt('text');div.style.width='200px';div.style.height='200px';div.style.background=(a);div.innerHTML=(b);document.getElementById('main');document.body.appendChild(div);
