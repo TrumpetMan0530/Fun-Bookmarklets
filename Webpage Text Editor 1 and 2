@@ -1,0 +1,1 @@
+javascript:var a=prompt('Editor 1 or 2?%27);(function(){if(a==%271%27){document.body.contentEditable=%27true%27;document.designMode=%27on%27;void%200.}else%20if(a==%272%27){var%20b=prompt(%27Change%20webpage%20text%20to...%27);document.body.innerHTML=(b);}})();
